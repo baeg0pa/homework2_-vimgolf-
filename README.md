@@ -4,7 +4,7 @@
 
 ## 문제1 ( $ vimgolf put 5f0f5fbe280fbf000c233304 ), 최고점: 8, 내 점수: 9
 ### <풀이>
-<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+<img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_1.gif?raw=true" width="600" height="300">
 
 1) G
 2) W
@@ -18,7 +18,7 @@
 
 ## 문제2 ( $ vimgolf put 603ba26a01b4d00009c10a49 ), 최고점: 19, 내 점수: 25
 ### <풀이>
-<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+<img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_2.gif?raw=true" width="600" height="300">
 
 1) W
 2) cw
@@ -30,7 +30,7 @@
   
 ## 문제3 ( $ vimgolf put 5f1063aa8361810006e73210 ), 최고점: 20, 내 점수: 29
 ### <풀이>
-<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+<img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_3.gif?raw=true" width="600" height="300">
 
 1) 4G
 2) yw
@@ -54,7 +54,7 @@
   
 ## 문제4 ( $  vimgolf put 9v0060da5177000000000209 ), 최고점: 34, 내 점수: 63
 ### <풀이>
-<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+<img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_4.gif?raw=true" width="600" height="300">
 
 1) :%s/y1/abs(y1)/g[엔터키]
 2) /1[엔터키]
@@ -76,7 +76,7 @@
 
 ## 문제5 ( $ vimgolf put 6013804df3308e0009368f1c ), 최고점: 19, 내 점수: 38
 ### <풀이>
-<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+<img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_5.gif?raw=true" width="600" height="300">
 
 1) 5G 
 2) 4Y
