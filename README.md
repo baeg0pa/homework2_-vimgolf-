@@ -3,8 +3,8 @@
 #### %% 제가 보고 입력하기 편한대로 단계를 나눠놓았습니다 %%
 
 ## 문제1 ( $ vimgolf put 5f0f5fbe280fbf000c233304 ), 최고점: 8, 내 점수: 9
-
 ### <풀이>
+<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
 
 1) G
 2) W
@@ -18,6 +18,8 @@
 
 ## 문제2 ( $ vimgolf put 603ba26a01b4d00009c10a49 ), 최고점: 19, 내 점수: 25
 ### <풀이>
+<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+
 1) W
 2) cw
 3) vim
@@ -27,8 +29,9 @@
   
   
 ## 문제3 ( $ vimgolf put 5f1063aa8361810006e73210 ), 최고점: 20, 내 점수: 29
-  
 ### <풀이>
+<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+
 1) 4G
 2) yw
 3) O
@@ -50,8 +53,9 @@
 19) ZZ
   
 ## 문제4 ( $  vimgolf put 9v0060da5177000000000209 ), 최고점: 34, 내 점수: 63
-
 ### <풀이>
+<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+
 1) :%s/y1/abs(y1)/g[엔터키]
 2) /1[엔터키]
 3) r4n
@@ -71,8 +75,9 @@
 17) ZZ
 
 ## 문제5 ( $ vimgolf put 6013804df3308e0009368f1c ), 최고점: 19, 내 점수: 38
-
 ### <풀이>
+<img src="https://github.com/baeg0pa/homework-1/blob/main/getopt%20%EC%82%AC%EC%9A%A9.png?raw=true" width="600" height="300">
+
 1) 5G 
 2) 4Y
 3) [PageDown] 아니면 G
