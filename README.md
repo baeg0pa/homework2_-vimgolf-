@@ -52,44 +52,31 @@
 18) 8x
 19) ZZ
   
-## 문제4 ( $  vimgolf put 9v0060da5177000000000209 ), 최고점: 34, 내 점수: 63
+## 문제4 ( $  vimgolf put 9v0060da5177000000000209 ), 최고점: 34, 내 점수: 61
 ### <풀이>
 <img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_4.gif?raw=true" width="800" height="400">
 
 1) :%s/y1/abs(y1)/g[엔터키]
-2) /1[엔터키]
-3) r4n
-4) r4n
-5) r4n
-6) nnn
-7) r2n
-8) r2n
-9) r2n
-10) r3n
-11) r3n
-12) r3
-13) /k[엔터키] 
-14) rgn 
-15) nrb 
-16) nrr 
-17) ZZ
+2) :3s/1/2/g[엔터키]
+3) :4s/1/3/g[엔터키]
+4) :5s/1/4/g[엔터키]
+5) /k[엔터키]
+6) rgn
+7) nrb
+8) nrr
+9) ZZ
 
-## 문제5 ( $ vimgolf put 6013804df3308e0009368f1c ), 최고점: 19, 내 점수: 38
+## 문제5 ( $ vimgolf put 6013804df3308e0009368f1c ), 최고점: 19, 내 점수: 27
 ### <풀이>
 <img src="https://github.com/baeg0pa/homework2_-vimgolf-/blob/main/solution_5.gif?raw=true" width="800" height="400">
 
 1) 5G 
-2) 4Y
+2) yw
 3) [PageDown] 아니면 G
-4) P
-5) JJJ
-6) 위 방향키 [Up]
-7) J
-8) 오른쪽 방향키 [Right]
-9) 2X
-10) /:[엔터키]
-11) 5xr,
-12) n5xr,
-13) n5xr,
-14) n6xr"
-15) ZZ
+4) 위 방향키 [Up]
+5) [End키]
+6) P
+7) a
+8) ,name,age,score
+9) [Esc키]
+10) ZZ
